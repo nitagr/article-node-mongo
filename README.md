@@ -8,7 +8,7 @@ A user has a privilege to create, read, update and delete the article.
 
 1). clone the repo:
 
-    command: git clone https://gitlab.com/nitish_19/blog_node_mongo
+    command: git clone https://github.com/nitagr/article-node-mongo
 
 2). Change directory and run the following command to install the dependencies:
 
